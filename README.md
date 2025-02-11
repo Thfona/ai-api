@@ -25,4 +25,9 @@ $ npm run test:watch
 $ npm run test:cov
 $ npm run test:debug
 $ npm run test:e2e
+
+# Clean
+$ npm run clean                   # Removes dist folder
+$ npm run clean:packages          # Removes node_modules folder
+$ npm run clean:all               # Runs all of the above
 ```
