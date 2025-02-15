@@ -1,4 +1,4 @@
-# IARA
+# AI API
 
 ## Scripts
 
