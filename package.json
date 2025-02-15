@@ -2,8 +2,8 @@
     "name": "ai-api",
     "version": "1.0.0",
     "description": "",
-    "author": "",
-    "license": "UNLICENSED",
+    "author": "Thfona",
+    "license": "MIT",
     "private": true,
     "scripts": {
         "start": "nest start",
