@@ -1,5 +1,7 @@
 # AI API
 
+Example of an AI API using [Ollama](https://ollama.com/).
+
 ## Scripts
 
 ```bash

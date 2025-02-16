@@ -1,7 +1,7 @@
 {
     "name": "ai-api",
     "version": "1.0.0",
-    "description": "",
+    "description": "Example of an AI API using Ollama.",
     "author": "Thfona",
     "license": "MIT",
     "private": true,
