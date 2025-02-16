@@ -2,6 +2,13 @@
 
 Example of an AI API using [Ollama](https://ollama.com/).
 
+```bash
+# Example request
+curl --location 'http://localhost:3000/chat' \
+--header 'Content-Type: application/json' \
+--data '{ "input": "Hello" }'
+```
+
 ## Scripts
 
 ```bash
