@@ -16,6 +16,7 @@
         "strict": true,
         "strictNullChecks": true,
         "strictBindCallApply": true,
+        "strictPropertyInitialization": false,
         "skipLibCheck": true,
         "forceConsistentCasingInFileNames": true,
         "noImplicitAny": true,

@@ -8,7 +8,6 @@ $ npm install
 
 # Start application
 $ npm start
-$ npm run start:dev
 $ npm run start:debug
 $ npm run start:prod
 
