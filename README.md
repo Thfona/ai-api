@@ -21,7 +21,7 @@ $ npm run start:debug
 $ npm run start:prod
 
 # Build
-npm run build
+$ npm run build
 
 # Lint
 $ npm run lint
